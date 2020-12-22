@@ -1284,7 +1284,8 @@ footer
 
     .footer-widget
     {
-      width: 245px;
+      width: 100%;
+      margin-left: 14%;
       padding-top: 15px;
       align-items: flex-start;
     }
